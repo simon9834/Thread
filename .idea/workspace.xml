@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2fcfae3-5769-4014-8f69-8de37725b56e" name="Changes" comment="added class Thread.java and wrote a code for moms body fat counter by using a thread">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kitchen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Order.java" afterDir="false" />
+    <list default="true" id="a2fcfae3-5769-4014-8f69-8de37725b56e" name="Changes" comment="Created a kitchen with orders using threads">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyThread.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714980730927</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created a kitchen with orders using threads">
+      <created>1714982690965</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714982690965</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added class Thread.java and wrote a code for moms body fat counter by using a thread" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class Thread.java and wrote a code for moms body fat counter by using a thread" />
+    <MESSAGE value="Created a kitchen with orders using threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a kitchen with orders using threads" />
   </component>
 </project>
